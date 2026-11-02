@@ -1,0 +1,12 @@
+{
+  "name": "oibsip",
+  "version": "1.0.0",
+  "description": "Task submissions for Oasis Infobyte Internship Program (OIB-SIP) - Web Development Track.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
